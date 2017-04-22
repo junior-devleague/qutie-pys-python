@@ -86,8 +86,8 @@ Activity
 
 ### Testing the waters with the REPL, PyQt5 and cute rectangles!
 
--   Fist lets instantiate a rectangle object from our REPL. we can use
-    the. class `QGraphicsRectItem`.
+-   First lets instantiate a rectangle object from our REPL. we can use
+    the class `QGraphicsRectItem`.
 
     ``` {.python}
     #example
