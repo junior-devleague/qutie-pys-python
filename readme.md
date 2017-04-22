@@ -60,13 +60,13 @@ Preparing the activity
     ``` {.python}
     # in your scratch.py file
     import sys
-    from PyQt5.Qtwidgets import (QApplication,
+    from PyQt5.QtWidgets import (QApplication,
                                  QGraphicsScene,
                                  QGraphicsView,
                                  QGraphicsRectItem)
 
     from PyQt5.QtGui import QBrush
-    from PyQt5.Qt.Core import Qt
+    from PyQt5.QtCore import Qt
 
 
     # initial window setup
